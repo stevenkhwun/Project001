@@ -1,0 +1,22 @@
+---
+title: "Literature Review"
+output: bookdown::html_document2
+bibliography: references.bib
+---
+
+```{r setup, include=FALSE}
+library(stargazer)
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+
+# A note on references
+
+The references @correa_2009 and @young are cited.
+
+@correa_2009 is an example in the original `references.bib` file. @young was added by me. The details of the bio data of this article in the `references.bib` file can be downloaded from the website of the article by selecting `BibTex` and then copy and paste with some minor modifications. 
+
+
+## Reference
