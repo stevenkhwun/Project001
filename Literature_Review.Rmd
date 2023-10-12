@@ -10,6 +10,12 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
+# A Tale of Two Cities, the paper by @young
+
+The paper by Alwyn Young can be located in the pdf file [young.pdf](Literature/Tale/young.pdf). The paper can also be accessed by the [link](https://www.journals.uchicago.edu/doi/abs/10.1086/654183).
+
+In his paper, he use **The Translog Index of Total Factor Productivity Growth** to estimate the Total Factor Productivity Growth in Hong Kong and Singapore.
+
 
 
 # A note on references
