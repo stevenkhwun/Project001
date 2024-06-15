@@ -7,4 +7,7 @@ The project is about Total Factor Productivity of Hong Kong.
 * Financial results of the listed companies in the following sectors
   * Retail sales
   * Properties investment companies (rental income)
-  * 
+* Economics statistics
+  * Salaries trend
+  * Unemployment rate
+  * GDP components
