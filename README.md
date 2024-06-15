@@ -11,3 +11,4 @@ The project is about Total Factor Productivity of Hong Kong.
   * Salaries trend
   * Unemployment rate
   * GDP components
+* Compare the returns on property (rental income) for different countries
